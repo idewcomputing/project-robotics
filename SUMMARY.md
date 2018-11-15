@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Project Introduction](README.md)
-* [Project Challenge](project-challenge.md)
 
 ## PROJECT INSTRUCTIONS
 
+* [Project Challenge](project-instructions/project-challenge.md)
 * [1 Discover & Define Problem](project-instructions/1-discover-and-define-problem/README.md)
   * [1-1 Form Teams](project-instructions/1-discover-and-define-problem/1-1-form-teams.md)
   * [1-2 Robot Experiments](project-instructions/1-discover-and-define-problem/1-2-robot-experiments.md)
