@@ -1,0 +1,31 @@
+# 2-3 Create Interactive Paper Prototype
+
+## Objectives
+
+* Construct a paper prototype that allows you to simulate the demonstrations for your robot's testing scenarios.
+* Sketch detailed views of your proposed robot prototype that include annotations to clearly identify components and explain features.
+
+## Instructions
+
+1. **Construct a paper prototype of the testing environment you will be using for your final presentation.** The prototype should represent a top-down view that is drawn to scale and dimensioned.
+   * **NOTE:** The scale used for objects and distances in your testing environment may need to be different from the scale of the real-world context. For example, your testing environment is limited to 6 feet by 6 feet, whereas your real-world robot might perform tasks across much larger distances. So choose object sizes and distances that will allow you to demonstrate your scenarios within the limits of your testing environment. Then construct your paper prototype as a scale model of your testing environment.
+   * On a sheet of [graph paper](https://incompetech.com/graphpaper/plain/) \(or multiple sheets taped together\), draw the outline of your robot testing environment. Then draw any _stationary_ features that will stay fixed in position during all the scenarios. For example, walls and certain objects might be stationary, while the robot and other objects will move.
+   * On separate pieces of paper, draw any individual objects that will change position or move during the scenarios \(such as the robot, certain obstacles, etc.\). These will be cut out and placed on top of your testing environment drawing.
+   * Be sure to label the names and dimensions \(size\) of the prototype's features and objects. If helpful, use color coding to make the parts easier to visually identify.
+2. **Guided by your testing scenarios and pseudocode, use your paper prototype to simulate the demonstration for each scenario.** Make any adjustments to your concepts as you reveal problems or opportunities in your simulation. Think about the technical feasibility of the demonstration, as well as the impact it may have with an audience \(e.g., Will the demo make sense to people? Will the demo show the usefulness and value of the robot? Will the demo be engaging? etc.\)
+3. **Create a multi-view drawing of your real-world robot concept showing front, side, and top views.** A multi-view drawing is also referred to as an [orthographic drawing](http://www.technologystudent.com/prddes1/orthogrp1.html). Here's an [example of a multi-view drawing](https://mir-s3-cdn-cf.behance.net/project_modules/fs/d226d626744645.56359cc419503.jpg). Do an image search for ["industrial design sketch"](https://www.google.com/search?q=industrial+design+sketch&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwijscW0qdXZAhXo44MKHQriDWsQsAQIJg&biw=1440&bih=782) to get inspiration for the visual aesthetics of your drawing.
+   * Include enough detail to show key components \(e.g. wheels, body, sensors, etc.\). Be sure to include the additional parts and features of the real-world robot concept that might not be part of your prototype.
+   * Be sure the height, width, and depth of the robot and its components are drawn to scale.
+   * Annotate the drawing by labeling key components and listing their dimensions \(size\). Include brief explanations of the robot's key features.
+4. **Record a brief video demonstrating your paper prototype.** As you simulate each testing scenario, be sure to clearly and concisely narrate what the robot is doing and "thinking" at each step \(i.e., what is it programmed to do and how it is programmed to make decisions\).
+
+Together, the paper prototype and multi-view drawing will help people understand your robot concept and how it works. Creating the video will help you practice demonstrating your interactive paper prototype to other people to get evaluation feedback, as you will do in the next assignment.
+
+## ✓ Standard Deliverables
+
+Submit photos or documents of the paper prototype and multi-view drawing. Submit or share your video as your teacher requests.
+
+## ✓+ Advanced Deliverables
+
+Use [Tinkercad](https://www.tinkercad.com/) or another CAD application to transform your multi-view drawing into a 3D digital model. Make the 3D model as professional-looking as possible, and create at least two variations of your concept.
+

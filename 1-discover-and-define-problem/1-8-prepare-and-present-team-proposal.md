@@ -1,0 +1,25 @@
+# 1-8 Prepare and Present Team Proposal
+
+## Objective
+
+Synthesize your work for this project phase and present a proposal that offers a compelling solution to an authentic need.
+
+## Instructions
+
+1. **Review and Refine** - Review the problem statement, robot scenario, and method of measuring success for your chosen concept. Make refinements as needed.
+2. **Prepare Slides** - Carefully prepare the slides to ensure clarity and legibility.
+3. **Plan and Practice** - Plan how your team will coordinate the presentation and practice.
+
+## ✓ Standard Deliverable
+
+A presentation containing clear, concise, and compelling information for the following:
+
+* Project Title
+* Problem Statement \(refined from 1-5\)
+* Summary of Robot Scenario \(include diagram\)
+* Method of Measuring the Performance of Your Prototype
+
+## ✓+ Advanced Deliverable
+
+Prepare 3 probing questions to ask your audience for feedback and further insight.
+

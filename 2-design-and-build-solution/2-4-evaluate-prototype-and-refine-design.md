@@ -1,0 +1,32 @@
+# 2-4 Evaluate Prototype and Refine Design
+
+## Objectives
+
+* Conduct evaluations of your robot design with outside stakeholders, using your paper prototype and multi-view drawing as the focus for the evaluation discussion.
+* Analyze the evaluation feedback, and make improvements to your robot design.
+
+## Instructions
+
+1. **Prepare a simple script to guide your evaluation sessions with relevant stakeholders in your robot concept.** Your goal is to clearly present your robot concept's design and to get constructive feedback on how to improve it further, so the robot will be [useful, usable, and valuable](https://cxd.gitbooks.io/robotics-project/content/project-challenge.html#criteria). Listed below is an outline of important elements to include in your evaluation script:
+   * **Introduce yourself, your team, and the project challenge.** Tell the participant that the purpose of today's evaluation is to improve your team's conceptual design of a robot before your team programs a functioning physical version. Tell the participant that feedback and questions are encouraged throughout the session.
+   * **Use your multi-view drawing to explain your team's robot concept.** Be sure to explain what the robot does, how it works, and what value it provides. Be sure to give the participant sufficient opportunity to provide feedback and ask questions. As necessary, ask the participant questions to prompt feedback on specific aspects of the robot concept.
+   * **Introduce your paper prototype** and explain that its purpose is to simulate how the robot might function in different scenarios. Let the participant know that the actual robot demonstrations will be limited to a 6 foot by 6 foot space, so the paper prototype is a model of this testing environment. Tell the participant that you'd like them to provide feedback as you demonstrate several scenarios.
+   * **Use your paper prototype to describe and demonstrate each of your testing scenarios step-by-step.** Be sure to give the participant sufficient opportunity to provide feedback and ask questions during each demonstration. As necessary, ask the participant questions to prompt feedback on specific aspects of the robot scenario demonstrations.
+   * **Thank the participant for their time and feedback.** Invite him or her to see your team's robot prototype demonstration at the public presentation later in the semester.
+2. **Conduct individual evaluations with at least 6 people.** Your team will need to identify which types of people would be most relevant and valuable to evaluate your robot. Be sure to include key stakeholders as participants, as well as people that can provide special insight \(possibly as experts\) in the context you have chosen for your robot concept. Be sure your participants reflect the diversity of the real-life stakeholders. Your full team does not necessarily need to be present for each evaluation, but be sure each team member participates in one or more evaluation sessions.
+3. **Record feedback during \(or immediately following\) each session.** The sooner you get notes and ideas written down, the less likely things will be forgotten or overlooked. Ideally, two team members would be present for each session, so that one person facilitates the session while the other person records notes.
+4. **Synthesize and prioritize the feedback, and incorporate design improvements into your team's concept.** Thoughtfully review and analyze the feedback as a team, in order to determine what changes should be made to your robot concept and to your plans for developing and demonstrating a functioning physical prototype.
+5. **Produce a summary report of your evaluation findings.** Include the following headings to organize your report:
+   * **Participants**: List and describe the participants in your evaluations. Specific names of participants are not important. What is important to describe are the key characteristics that made each of them relevant and valuable sources of evaluation feedback.
+   * **Summary of Feedback**: List the feedback that you collected. This can be a bulleted list. The feedback doesn't have to prioritized or ranked, but it may be helpful to organize it in some meaningful way \(e.g., lists of feedback by participant, lists of feedback by topic or feature, etc.\).
+   * **Key Findings**: Describe what your team decided were the key findings that should be acted on, and explain why.
+   * **Design Revisions**: Describe what changes were made to your team's robot concept and what changes were made to your team's plans for how to develop and demonstrate a functioning physical prototype.
+
+## ✓ Standard Deliverables
+
+Submit your summary report.
+
+## ✓+ Advanced Deliverables
+
+Follow up with two participants to get additional feedback on the specific design improvements that your team decided to make. This would be especially valuable with expert participants that have valuable knowledge in the problem space you are addressing. Add a summary of these follow-up sessions to your summary report with a clear heading.
+

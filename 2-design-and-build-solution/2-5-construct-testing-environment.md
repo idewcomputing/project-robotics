@@ -1,0 +1,34 @@
+# 2-5 Construct Testing Environment
+
+## Objectives
+
+* Construct a full-size version of your robot’s testing environment that includes the 2D and 3D features \(e.g., lines, objects, obstacles, etc.\) necessary to demonstrate your scenarios.
+* Use your testing environment to verify the programming of your robot’s tasks and behaviors.
+
+## Instructions
+
+1. **Determine what testing environment features are needed for your robot’s demonstration.** Use your team’s testing scenario descriptions, paper prototype, and evaluation findings to decide.
+   * Determine which features will be **stationary** and which will need to be **movable**.
+     * **Stationary features** will remain fixed in place throughout your robot demonstration \(same location across all scenarios\).
+     * **Movable features** will change location during your robot demonstration \(either during a scenario or between scenarios\).
+   * Determine which features will be **2D representations** and which will be **3D representations**.
+     * **2D representations:**  Lines can be used for paths, boundaries, etc. Paper can be used to create flat representations of certain features \(even if the real-life feature isn't flat\).  For example, dark-colored paper could be used to cut out a shape representing a feature \(such as: pothole, chemical spill, etc.\), and then IR line sensors could detect this feature.
+     * **3D representations:**  Paperboard, cardboard, and other materials can be used to create walls, objects, obstacles, etc. For example, a recycled box could be used to represent a feature \(such as:  wall, object, etc.\), and then mechanical bumpers or an ultrasonic sensor could detect this feature.
+2. **Construct the 2D and 3D features necessary for a full-size version \(6 feet × 6 feet\) of your team’s testing environment.** Necessary materials and tools might include: electrical tape \(for lines\), adhesive tape \(for building and securing objects\), paper, paperboard, cardboard, markers, ruler, tape measure, scissors, etc. Your teacher will identify which materials and tools will be provided, as well as where each team can store its testing environment objects.
+   * Determine the correct size and position for each feature based on the scale and dimensions indicated in your team’s paper prototype. If necessary, modify which features are included, as well as their sizes and locations. It's important to be sure your robot will have sufficient space within the testing environment for moving, turning, etc. It's also important that features are the appropriate size to be detected \(and, when necessary, avoided\) by your robot.
+   * If helpful, make certain features visually distinct or  identifiable using a label, color, etc.  The purpose is to make your demonstration more understandable and compelling to viewers.
+   * You should label each feature with your team's name and class period \(for tracking purposes\).
+   * If necessary, create an updated paper prototype drawing showing a top-down view of your testing environment and its features. \(This drawing could become digital at this point, to make future revisions easier.\) Be sure to accurately scale the size and position of each feature, listing the real-life dimensions. _You'll use this updated paper prototype as a reference to accurately, consistently, and efficiently set up your testing environment multiple times — and as a reference for programming the robots' tasks and behaviors._
+3. **Set up your team’s testing environment with its 2D and 3D features.** Your teacher will provide access to one or more practice environments \(i.e., 6 feet × 6 feet space outlined with electrical tape\) that will be shared by the class, using a process determined by your teacher \(e.g., rotation system, sign-up system, first-come first-served, etc.\).
+   * **Take photos of your testing environment layout.** If your testing scenarios will require different layouts, then take a photo of each scenario’s layout. Use an image editor \(such as Google Drawing, etc.\) to annotate each photo with text and arrows to identify the testing environment features. If helpful, include sizes and/or positions of features.
+   * **Use your testing environment to test and verify the programming of your robot's tasks and behaviors.** Your team will most likely find it necessary to modify your testing environment and/or your robot's program, in order for the robot to successfully complete its tasks and perform its behaviors. As necessary, update your paper prototype and take new photos \(so you can set up the testing environment accurately for the next test or demonstration\).
+   * **NOTE:** For the final public demonstration at the end of the project, each team will set up its own dedicated testing environment. It is highly recommended that teams set up and test their dedicated environments prior to the day of this event.
+
+## ✓ Standard Deliverables
+
+Submit annotated photos showing your robot’s final testing environment for its scenarios.
+
+## ✓+ Advanced Deliverables
+
+Construct and attach parts to your robot that will help better demonstrate your robot concept and testing scenarios. Be sure the parts add either **functional** or **visual** value to your robot demonstration. Be sure the parts don't interfere with your robot’s functionality \(e.g., don’t block sensors that your robot needs to use, don’t add too much weight that your robot's mobility is affected, etc.\). Submit annotated photos showing the constructed parts attached to your robot and explain their function or visual value.
+

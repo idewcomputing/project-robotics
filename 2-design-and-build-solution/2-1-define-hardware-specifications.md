@@ -1,0 +1,30 @@
+# 2-1 Define Hardware Specifications
+
+## Objectives
+
+Define two different levels of hardware specifications for your robotic solution:
+
+* First, describe the components \(i.e., sensors and other parts\) that your robot prototype will need to demonstrate selected functions of your concept.
+* Second, describe additional components that would be required to create a full-scale, fully-functional robot to work in your target context.
+
+## Instructions
+
+1. **Review your team's proposal** and determine your intended functions to demonstrate to the public.
+2. **Identify and list each robotic component that will be needed to complete your demonstration.** For each component, describe the following.
+   * Component name
+   * What the component generally does
+   * How the component will be specifically used to enable your demonstration. As needed, include how and where components may be mounted to the robot to function properly.
+3. **Identify and list robotic components that would be required to deliver a full-scale, fully-functional robot to work in your target context.** For each component, describe the following.
+   * Component name
+   * What the component generally does
+   * How the component would be used to enable a full-scale, fully-functional robot. As needed, include how and where components may be mounted to the robot to function properly. Explain why this component may have been chosen over others that could serve a similar function.
+4. **In your team, informally talk through the steps your robot prototype may need to complete during your demonstration and ensure that the listed components will support those actions.**
+
+## ✓ Standard Deliverables
+
+Document and submit a document with the hardware specifications for both the robot prototype demonstration and a potential full-scale, fully-functional robot.
+
+## ✓+ Advanced Deliverable
+
+Submit two or more additional paragraphs that provides more detail on the research your team conducted to determine the appropriate set of components needed for a full-scale robotic solution. Basically dig a little deeper into your work from step 3 above. **Include references to material used to help in the decision-making.**
+
