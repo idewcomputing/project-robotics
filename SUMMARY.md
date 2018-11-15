@@ -28,6 +28,9 @@
 
 ## REFERENCES
 
+* [Robotics Code Guidebook](https://docs.idew.org/code-robotics/)
+* [CxD Principles & Practices](https://docs.idew.org/principles-and-practices/)
+* [Research Topics in Computing](https://docs.idew.org/research-topics-in-computing/)
 * [RedBot Code References](references/redbot-code-references/README.md)
   * [Arduino Programming](references/redbot-code-references/arduino-programming.md)
   * [RedBot Library](references/redbot-code-references/redbot-library.md)
@@ -46,7 +49,4 @@
   * [Program Example 2 - Line Counting Nav](references/redbot-code-references/program-example-2-line-counting-nav.md)
   * [Program Example 3 - Line Following Nav](references/redbot-code-references/program-example-3-line-following-nav.md)
   * [Program Example 4 - Autonomous Nav](references/redbot-code-references/program-example-4-autonomous-nav.md)
-* [Robotics Code Guidebook](https://docs.idew.org/code-robotics/)
-* [CxD Principles & Practices](https://docs.idew.org/principles-and-practices/)
-* [Research Topics in Computing](https://docs.idew.org/research-topics-in-computing/)
 
