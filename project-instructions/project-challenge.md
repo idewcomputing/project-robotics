@@ -1,6 +1,6 @@
 # Project Challenge
 
-### Design, program, and test a [two-wheeled robot](https://www.sparkfun.com/products/12649) prototype that demonstrates the completion of  meaningful tasks for people.
+Design, program, and test a [two-wheeled robot](https://www.sparkfun.com/products/12649) prototype that demonstrates the completion of  meaningful tasks for people.
 
 **The Robot and Prototype Environment Scale**
 
