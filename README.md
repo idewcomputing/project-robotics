@@ -10,6 +10,8 @@
 
 ![](.gitbook/assets/redbot.jpg)
 
+## Copyright and License
+
 Part of the [_Computing by Design_](https://cxd.gitbooks.io/the-cxd-framework/content/) high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)
 
 **Authors**
