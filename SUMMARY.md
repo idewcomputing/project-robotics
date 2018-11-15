@@ -24,6 +24,10 @@
   * [2-7 Create Promotional Material and Poster Draft](project-instructions/2-design-and-build-solution/2-7-create-promotional-material-and-poster-draft.md)
   * [2-8 Demonstrate Working Prototype and Promotional Material](project-instructions/2-design-and-build-solution/2-8-demonstrate-working-prototype-and-promotional-material.md)
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution.md)
+* [3.1 Solution Evaluation](project-instructions/3.1-solution-evaluation.md)
+* [3.2 Solution Refinements](project-instructions/3.2-solution-refinements.md)
+* [3.3 Project Poster](project-instructions/3.3-project-poster.md)
+* [3.4 Evaluation Presentation](project-instructions/3.4-evaluation-presentation.md)
 * [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
 
 ## REFERENCES
