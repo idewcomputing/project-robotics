@@ -2,7 +2,7 @@
 
 The RedBot has three "line following" sensors \(left, center, and right\). The bottom of each sensor has an LED that transmits infrared \(IR\) light, which is invisible to the human eye. The bottom of each sensor also has an IR detector, which measures how much of the IR light is reflected back by the surface that the RedBot is driving on.
 
-![](../.gitbook/assets/line-sensor.jpg)
+![](../../.gitbook/assets/line-sensor.jpg)
 
 The amount of reflected IR light that is detected depends on several factors, including the color of the surface, as well as the distance between the sensor and the surface:
 
@@ -360,7 +360,7 @@ You can also use the IR sensors to count the number of lines that the RedBot cro
 
 In this case, you use short lines as "markers" to indicate possible stopping points along a path. The lines should be placed **perpendicular** to the RedBot's path. The lines do not have to be spaced out evenly — just place the lines wherever you need a possible stopping \(or turning\) point. Once the RedBot reaches the desired line number, it will stop. Then you can perform other desired actions, such as turning, etc.
 
-![](../.gitbook/assets/line-counting.png)
+![](../../.gitbook/assets/line-counting.png)
 
 ### countLine\(\) function
 
@@ -439,7 +439,7 @@ You will notice that within this `while` loop, the value of a variable named `li
 
 If necessary, you can also place line markers in a "grid-like" pattern, in order to allow your RedBot to travel between different locations. For example, this diagram shows a series of line markers with a starting location plus a set of locations labeled with letters A-I:
 
-![](../.gitbook/assets/line-counting-grid.png)
+![](../../.gitbook/assets/line-counting-grid.png)
 
 Imagine this diagram represents a top-down view of a grocery store layout with three aisles of food \(i.e., the three vertical columns of markers\). The top horizontal row \(i.e., with the "plus" markers\) is used to travel from one aisle to another. How could the RedBot travel from the starting location to location E?
 
@@ -477,7 +477,7 @@ You can also use the IR sensors to make your RedBot follow a line while also cou
 
 This will allow you to create a more complex line pattern that has different paths for the RedBot to follow. The key is to make sure the lines cross each other at **perpendicular** angles \(90° right angles\).
 
-![](../.gitbook/assets/follow-count-lines-ex1.png)
+![](../../.gitbook/assets/follow-count-lines-ex1.png)
 
 ### followCountLine\(\) function
 
@@ -559,7 +559,7 @@ You will notice that within this `while` loop, the value of a variable named `li
 
 You can create more complex line patterns that have multiple paths intersecting each other. You can even have a path form a loop and cross itself. You can also add short lines as "markers" for specific destinations along a path. Again, the key is to make sure the lines always cross each other at **perpendicular** angles \(90° right angles\).
 
-![](../.gitbook/assets/follow-count-lines-ex2.png)
+![](../../.gitbook/assets/follow-count-lines-ex2.png)
 
 Based on the diagram above, how could the RedBot travel from the starting location to Destination 2, pause at Destination 2 \(perhaps for a simulated step\), and then head back to the Start?
 

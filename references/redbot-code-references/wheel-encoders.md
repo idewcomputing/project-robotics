@@ -4,17 +4,17 @@ If you were to drive the RedBot motors at the same power, you would expect them 
 
 The RedBot has wheel encoders that can measure exactly how many times the left and right motors have rotated. Over time, even a slight difference between the left and right motor rotations will add up and prevent the robot from traveling in a straight line. Fortunately, you can use the wheel encoders to help fix this issue \(by adjusting the power supplied to each motor\) and make your robot drive perfectly straight.
 
-![](../.gitbook/assets/wheel-encoder.jpg)
+![](../../.gitbook/assets/wheel-encoder.jpg)
 
 Each wheel encoder consists of a [Hall effect sensor](https://en.wikipedia.org/wiki/Hall_effect_sensor) that can measure the strength of a magnetic field. A ring magnet is attached to each RedBot motor. When the motor rotates the wheel, it also rotates the ring magnet. The Hall effect sensor positioned near the ring detects changes in the magnetic field as the ring rotates. This is how the sensor can measure how many times the motor has rotated.
 
 **IMPORTANT:** In order to function accurately, the wheel encoder sensor must be positioned correctly. The sensor tip must be centered within the silver band of the ring magnet \(not too far inward or outward\) and must be close to the ring magnet's surface \(about ⅛" inch away\). You may need to push or pull the sensor to position it correctly. Even a small adjustment can affect its accuracy.
 
-![](../.gitbook/assets/encoder-position%20%281%29.png)
+![](../../.gitbook/assets/encoder-position%20%281%29.png)
 
 When you think of a magnet, you probably think of a magnet that has 2 poles: north and south. It is true that magnets have pairs of N-S poles. However, a magnet can be created with multiple pairs of N-S poles. The ring magnets attached to the RedBot motors each have 4 pairs of N-S poles, similar to the diagram below.
 
-![](../.gitbook/assets/ring-magnet.jpg)
+![](../../.gitbook/assets/ring-magnet.jpg)
 
 As the ring magnet completes one full rotation, the Hall effect sensor detects 4 changes \(or "ticks"\) in the magnetic field as the magnetic poles pass by the sensor.
 
@@ -174,7 +174,7 @@ Try the following tests to see how the encoder counts change:
 * When you manually turn the wheels, you will notice that the counter will increase whether you turn the wheel clockwise or counter-clockwise. However, when you drive the motors using your program, a wheel's encoder count will only increase if the motor is driving the wheel forwards. If the motor is driving the wheel backwards, its encoder count will decrease \(and can become a negative count\). To test this, modify your `testWheelEncoder()` function by changing `motors.drive(150);` to `motors.pivot(150);` which will make the left motor drive forwards, while the right motor drives backwards. Run the modified program to verify that the left count increases, while the right count decreases.
 * **TROUBLESHOOTING:** If either encoder count doesn't seem to be changing as the motor rotates, check the position of the wheel encoder sensor. The sensor tip must be centered within the silver band of the ring magnet \(not too far inward or outward\) and must be close to the ring magnet's surface \(about ⅛" inch away\). Otherwise, it may not detect the magnetic "ticks" accurately. You may need to push or pull the encoder to position it accurately. Even a small adjustment can affect its accuracy. If the encoder is pushed too far inward, use the flat-tipped screwdriver included in your RedBot kit to gently push the encoder back into the correct position.
 
-![](../.gitbook/assets/encoder-position.png)
+![](../../.gitbook/assets/encoder-position.png)
 
 **NOTE:** When you change the batteries in your RedBot's battery pack, it is easy to accidentally push the wheel encoder wires. So every time after changing the batteries, check the positions of the wheel encoder sensors and adjust them if necessary.
 
@@ -513,7 +513,7 @@ You can also make your RedBot turn by driving one wheel while the other wheel is
 
 Here is a visual comparison of pivoting on both wheels versus turning on one wheel:
 
-![](../.gitbook/assets/pivot-both-vs-turn-one.png)
+![](../../.gitbook/assets/pivot-both-vs-turn-one.png)
 
 When turning on one wheel, the RedBot turns in a circle that is centered on the stopped wheel. The distance between the centers of the RedBot wheel treads is 6.125 inches, which represents the radius of this turn circle. So the diameter of the turn circle is twice the radius - i.e., 12.25 inches. If the RedBot turned 360°, the distance traveled by the driving wheel would be equal to the circumference of this turn circle:
 

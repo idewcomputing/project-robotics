@@ -215,7 +215,7 @@ There are several ways to turn the RedBot left or right, depending on how tight 
 
 Here is a visual comparison of pivoting on both wheels versus turning on one wheel:
 
-![](../.gitbook/assets/pivot-both-vs-turn-one.png)
+![](../../.gitbook/assets/pivot-both-vs-turn-one.png)
 
 ### Pivot on Both Wheels
 

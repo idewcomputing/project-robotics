@@ -8,7 +8,7 @@
 
 ## Project Stages
 
-#### [1. Discover and Define a Problem](1-discover-and-define-problem/)
+#### [1. Discover and Define a Problem](project-instructions/1-discover-and-define-problem/)
 
 Research potential problems, stakeholders, the available technology, and features of existing robotics designs. You may focus on a personal context \(home, recreation, etc.\), business context \(office, industry, etc.\), or public context \(school, police, etc.\). Determine your problem focus and thoughtfully define how you will evaluate your final prototype.
 

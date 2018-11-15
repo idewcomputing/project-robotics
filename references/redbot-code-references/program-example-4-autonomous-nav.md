@@ -10,7 +10,7 @@ The diagram below represents a scenario where a security robot will patrol an ar
 
 In this scenario, every time the robot makes a turn, the angle is slightly random \(though within a certain range\), which makes the robot's pattern different every time the demonstration is run. \(Thus, the diagram only shows one possible path.\) The robot can be started from anywhere in the environment \(pointing in any direction\), and the robot will still perform its task of patrolling within the area while avoiding obstacles.
 
-![](../.gitbook/assets/robot-demo4.jpg)
+![](../../.gitbook/assets/robot-demo4.jpg)
 
 For the purposes of the demonstration, we will set the robot to patrol for a limited amount of time \(such as 30 seconds\) before stopping. In addition, the testing environment is obviously much smaller than what an actual security guard setting would require.
 

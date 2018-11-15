@@ -7,7 +7,7 @@ Accelerometer readings are affected by:
 * acceleration of the device \(i.e., the device speeding up or slowing down\)
 * acceleration due to Earth's gravity \(i.e., the orientation of the device\)
 
-![](../.gitbook/assets/accelerometer-axes.jpg)
+![](../../.gitbook/assets/accelerometer-axes.jpg)
 
 Even if a device with an accelerometer is **not** moving, the accelerometer can detect the orientation of the device by measuring the acceleration due to Earth's gravity, which is a constant downward force acting on all objects. The accelerometer can determine if the device is parallel to the Earth's surface or if it is tilted at an angle.
 
@@ -59,7 +59,7 @@ The new measurements are stored as properties of the object:
 
 This diagram shows how the X, Y, and Z axes are oriented on your RedBot and what the XZ, YZ, and XY angles represent. These angles are also referred to as **pitch**, **roll**, and **yaw**.
 
-![](../.gitbook/assets/redbot-pitch-roll-yaw.jpg)
+![](../../.gitbook/assets/redbot-pitch-roll-yaw.jpg)
 
 For a wheeled vehicle, pitch and roll are the most important angles to measure as they indicate the tilt of the vehicle from front-to-back and side-to-side.
 

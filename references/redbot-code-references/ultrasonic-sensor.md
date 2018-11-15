@@ -6,7 +6,7 @@ An ultrasonic sensor uses sonar to measure the distance to an object. The sensor
 
 The way that the ultrasonic sensor works is similar to how certain types of animals, such as bats and dolphins, use [echolocation](https://en.wikipedia.org/wiki/Animal_echolocation) for navigation and hunting.
 
-![](../.gitbook/assets/ultrasonic-sensor.jpg)
+![](../../.gitbook/assets/ultrasonic-sensor.jpg)
 
 If you want to add an ultrasonic sensor to the front of your RedBot, you will need:
 
@@ -16,7 +16,7 @@ If you want to add an ultrasonic sensor to the front of your RedBot, you will ne
 
 This ultrasonic sensor measures distances in a narrow cone of about 15° in front of the sensor. This sensor can detect obstacles located up to 400 cm away \(about 13 feet\). The distances calculated from the sensor measurements are very accurate, within about 3 mm \(about 0.1 inch\) of the actual distance.
 
-![](../.gitbook/assets/ultrasonic-cone.png)
+![](../../.gitbook/assets/ultrasonic-cone.png)
 
 The primary use of the ultrasonic sensor is to prevent collisions. If the sensor detects an obstacle nearby in the path ahead, the RedBot can be programmed to avoid the obstacle by stopping, turning, etc. This not only prevents collisions — it can allow the RedBot to navigate a "maze" of obstacles on its own.
 
@@ -66,7 +66,7 @@ Velcro \("hook-and-loop"\) tape will allow you to remove the sensor if needed \(
 2. Attach one piece of tape under the sensor's transmitter and one piece of tape under the sensor's receiver. 
 3. Press the sensor onto the front edge of the RedBot's top mounting plate, so the other side of the tape pieces will attach securely to the RedBot. Be sure the sensor is mounted to face forward, like a pair of eyes.
 
-![](../.gitbook/assets/ultrasonic-mounted.jpg)
+![](../../.gitbook/assets/ultrasonic-mounted.jpg)
 
 ## Declare Variables for Sensor Pin Numbers
 
@@ -289,7 +289,7 @@ Avoiding obstacles while [following a line](ir-line-sensors.md#follow-line-autom
 
 This diagram shows one possible solution to detour around an obstacle while following a line.
 
-![](../.gitbook/assets/follow-line-avoid-obstacle.png)
+![](../../.gitbook/assets/follow-line-avoid-obstacle.png)
 
 Notice in step 5 of the diagram that a 45° degree turn is made to angle back towards the line \(instead of making another 90° turn\). The reason for this is to make sure the right-hand IR line sensor will detect the line first, so the `followLine()` function can adjust the left and right motor powers to steer the RedBot to become centered on the line again. \(Otherwise, if the RedBot approaches the line at a 90° degree angle, the RedBot will simply drive over the line without correcting itself.\)
 

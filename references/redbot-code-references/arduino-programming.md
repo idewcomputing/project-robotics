@@ -1,6 +1,6 @@
 # Arduino Programming
 
-![](../.gitbook/assets/arduino_logo.png)
+![](../../.gitbook/assets/arduino_logo.png)
 
 The RedBot device runs programs written in a computer language called [Arduino](https://www.arduino.cc/reference/en/).
 
@@ -8,7 +8,7 @@ To be more accurate, Arduino is actually a code library written in another compu
 
 The Arduino "language" is designed to make it easier to write programs for microcontrollers, which are small, low-cost, low-power computers that control physical inputs and outputs \(such as sensors, lights, motors, etc.\).
 
-![](../.gitbook/assets/arduino-uno.jpg)
+![](../../.gitbook/assets/arduino-uno.jpg)
 
 An Arduino microcontroller board contains a processor \(CPU\), memory \(RAM\), storage \(Flash\), input/output pins, a USB port \(for data transfer\), and a power supply input \(typically battery-powered\). A microcontroller doesn't have a keyboard, monitor, or other peripherals that full-size computers usually have. A microcontroller is also much less powerful than a full-size computer: a microcontroller has a slower processor, less memory, less storage, etc.
 

@@ -4,7 +4,7 @@ The RedBot has left and right mechanical bumpers that act like "whiskers" to det
 
 **NOTE:** If your RedBot also has an [ultrasonic sensor](https://cxd.gitbooks.io/robotics-project/content/redbot-code-references/ultrasonic-sensor.html) \(which can detect obstacles before a collision happens\), it may be best to think of the mechanical bumpers as a fallback system that supplements the ultrasonic sensor. The ultrasonic sensor detects obstacles in a narrow cone of about 15° directly in front of the sensor. However, the ultrasonic sensor might not necessarily detect obstacles off to the side. Since the mechanical bumper whiskers extend outwards on both sides, they can detect a collision with an obstacle that the ultrasonic sensor might not have detected, as shown below.
 
-![](../.gitbook/assets/ultrasonic-plus-bumpers.png)
+![](../../.gitbook/assets/ultrasonic-plus-bumpers.png)
 
 ### How to Use the Mechanical Bumpers in a Program:
 
@@ -23,7 +23,7 @@ To use the mechanical bumpers, you will need to: 1. Create `RedBotBumper` object
 
 **NOTE:** The side struts at the front of the RedBot might prevent the bumper wires from making contact with the metal screws. To fix this, rotate the bumper boards slightly \(about 10°\) and secure them in place, so the metal screws are slightly further forward than the side struts. The left bumper board should be rotated clockwise, while the right bumper board should be rotated counter-clockwise. The picture shows the bumper boards already rotated \(about 10°\) into their final positions.
 
-![](../.gitbook/assets/bumper-rotation.jpg)
+![](../../.gitbook/assets/bumper-rotation.jpg)
 
 ## Create RedBotBumper Objects
 

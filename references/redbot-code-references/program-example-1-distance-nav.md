@@ -8,7 +8,7 @@ This navigation method is similar to the detailed "turn-by-turn" directions that
 
 The diagram below represents a scenario where a hospital robot will navigate through a hallway \(red rectangles are cardboard boxes that represent walls\) towards an nurse's station, simulate picking up blood samples \(team member would pick up box labeled as "A"\), and then transport the samples back to the hospital lab \(labeled as "Start"\).
 
-![](../.gitbook/assets/robot-demo1.jpg)
+![](../../.gitbook/assets/robot-demo1.jpg)
 
 For the purposes of the demonstration, the distances traveled are much shorter than what would be required in an actual hospital environment. Also, for the actual demonstration, it would be essential to place the robot and other objects at the exact starting positions shown in the diagram by using a tape measure to confirm the distances and positions.
 
