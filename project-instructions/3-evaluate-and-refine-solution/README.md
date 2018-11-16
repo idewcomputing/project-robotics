@@ -4,14 +4,10 @@ After confirmation of the solution’s quality, conduct a thorough evaluation. D
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
-| 3-1 Detail Testing Script and Measures to Evaluate Effectiveness | 1 hour |  |  |
-| 3-2 Conduct Full Evaluations | 2 hours |  |  |
-| 3-3 Analyze Results and Prioritize Refinements | 1 hour |  |  |
-| 3-4 Implement Refinements | 2 hours |  |  |
-| 3-5 Finalize Poster Design | 2 hours |  |  |
-| **3-6 Final Demonstration to Class and Poster Preview** | 1 hour |  | . |
-
-**RUBRICS:** [**PERSONAL CONTRIBUTION**]() **\|** [**TEAM COLLABORATION**]() **\|** [**DEMONSTRATION AND POSTER PREVIEW**]()
+| 3.1 Solution Evaluation | 3 hours |  |  |
+| 3.2 Solution Refinements | 3 hours |  |  |
+| 3.3 Project Poster | 3 hours |  |  |
+| **3.4 Evaluation Presentation** | 1 hour |  |  |
 
 
 

@@ -4,10 +4,7 @@ Prepare material to share the details of the solution, the process used to devel
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
-| 4-1 Compose Personal Reflections |  |  |  |
-| 4-2 Refine and Practice Presentation |  |  |  |
-| **4-3 Present to Public** |  |  |  |
-| **4-4 Celebrate!** |  |  | . |
-
-**RUBRICS:** [**PERSONAL CONTRIBUTION**]() **\|** [**TEAM COLLABORATION**]() **\|** [**FINAL PRESENTATION**]()
+| 4.1 Public Presentation | 2 hours |  |  |
+| 4.2 Project Reflection | 1 hour |  |  |
+| 4.3 Class Celebration | 1 hour |  |  |
 
