@@ -1,5 +1,9 @@
 # RedBot Code References
 
+{% hint style="danger" %}
+**UPDATE IN PROGRESS:** All the robotics coding references are being updated and moved into a [new coding guidebook](https://docs.idew.org/code-robotics/) \(separate from this project guidebook\). This will occur during fall 2018 and be ready for use in January 2019. Please check back later.
+{% endhint %}
+
 The following coding references can help you create Arduino programs that use your RedBot's motors, sensors, and other parts:
 
 * [Arduino Programming](arduino-programming.md)
