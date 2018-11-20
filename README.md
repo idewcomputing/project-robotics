@@ -4,7 +4,7 @@
 **UPDATE IN PROGRESS:** This project guidebook will be revised during fall 2018 and be ready for use in January 2019. Please check back later.
 {% endhint %}
 
-![](.gitbook/assets/redbot.jpg)
+![RedBot \(Two-Wheeled Robot with Sensors\)](.gitbook/assets/redbot.jpg)
 
 ## Copyright and License
 
