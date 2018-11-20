@@ -1,10 +1,13 @@
 # Motors
 
-The SparkFun `RedBot` library has a class named `RedBotMotors` which contains methods \(functions\) to control the RedBot's left and right motors \(either as a pair or as independent left and right motors\).
+The SparkFun `RedBot` library has a class named `RedBotMotors` which contains methods \(functions\) to control the RedBot's left and right motors \(either as a pair or as independent left and right motors\). By controlling the motors, you can make the RedBot drive, turn, or stop.
 
 ### How to Use the Motors in a Program:
 
-To use the motors, you will need to: 1. Create `RedBotMotors` object for the motors 2. Use the object's methods such as: `drive()`, `pivot()`, `brake()`, etc.
+To use the motors, you will need to:
+
+1. Create `RedBotMotors` object for the motors
+2. Use the object's methods to drive, turn, or stop \(such as: `drive()`, `pivot()`, `brake()`, etc.\)
 
 ### Coding References in this Section:
 
