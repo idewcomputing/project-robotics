@@ -15,6 +15,7 @@
   * [1-7 Evaluate Concepts and Select One](project-instructions/1-discover-and-define-problem/1-7-evaluate-concepts-and-select-one.md)
   * [1-8 Prepare and Present Team Proposal](project-instructions/1-discover-and-define-problem/1-8-prepare-and-present-team-proposal.md)
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
+  * [2.1 Project Schedule](project-instructions/2-design-and-build-solution/2.1-project-schedule.md)
   * [2-1 Define Hardware Specifications](project-instructions/2-design-and-build-solution/2-1-define-hardware-specifications.md)
   * [2-2 Generate Pseudocode for Testing Scenarios](project-instructions/2-design-and-build-solution/2-2-generate-pseudocode-for-testing-scenarios.md)
   * [2-3 Create Interactive Paper Prototype](project-instructions/2-design-and-build-solution/2-3-create-interactive-paper-prototype.md)
