@@ -13,5 +13,5 @@ Begin to frame the goals of your design by learning about your users and other s
 | 1.5 User Research | 3 Hours |  |  |
 | 1.6 Value Proposition | 1 Hour |  |  |
 | 1.7 Task Scenarios | 2 Hours |  |  |
-| 1.8 Proposal Presentation | 2 Hours |  |  |
+| **1.8 Proposal Presentation** | 2 Hours |  |  |
 
