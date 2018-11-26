@@ -7,6 +7,22 @@ Each team must design and develop a prototype of a **two-wheeled robot** that de
 Your robot demonstration environment will be limited to 6 feet by 6 feet in size. Your team will customize this area to simulate a real-world environment by adding obstacles, objects, etc.
 
 ![](../.gitbook/assets/robot-demo-environment.jpg)
+
+Your team will program a functional prototype of your robot using the provided robotics kit, which has various physical inputs and outputs that can be controlled. Your robot will need to use **at least two physical inputs** \(sensors, button, etc.\) and **at least two physical outputs** \(motors, LED light, etc.\).
+
+The provided robotics kit has a limited number of features, so here are some recommendations:
+
+* **Creative thinking and innovation will be required** to identify possible ways to use the robot's inputs and outputs, as well as possible ways to sequence robot behaviors to complete different tasks.
+* Your robot prototype might have to be a **smaller-scale model or limited version** of your intended robot design.
+* If necessary, **you can simulate certain parts or actions** as long as the main tasks of your robot can still be demonstrated. For example, For example, your robotics kit does not include an arm that could grip objects - so your team could simulate the robot grabbing or placing an object, as long as the robot could still demonstrate another main task (such as delivering the object to a new location).
+* If necessary, **you can construct parts** \(using cardboard, 3D-printing, etc.\). The constructed parts could provide _functional value_ by helping the robot perform its tasks and/or provide _aesthetic value_ by adding to the robot's appearance for demonstration purposes.
+
+## Website, Video, Poster, and Presentation
+
+Each team will create a **product marketing website** for their robot concept. The website should include a **robot demo video**.
+
+At the end of the semester, all teams will demonstrate and explain their robot prototypes at a **public poster presentation**.
+
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
