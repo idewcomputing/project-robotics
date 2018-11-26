@@ -17,6 +17,7 @@ Each phase of the project has a set of team deliverables, but they lead to these
 * **Product Website** that explains your robot and includes a robot demo video
 * **Project Poster** that highlights key features of your robot solution and key steps in creating it
 * **Public Presentation** that demonstrates your robot solution and explains how it was designed and developed
+
 {% endtab %}
 
 {% tab title="★ CRITERIA" %}
@@ -54,5 +55,7 @@ Each team will have 2-4 members that serve in one or more of these roles:
 **Teams of 3** need to designate different people as the Design Lead, the Development Lead, and the Business Lead. One person will also need to serve as the Project Manager.
 
 **Teams of 4** need to designate different people for each role.
+
 {% endtab %}
+
 {% endtabs %}
