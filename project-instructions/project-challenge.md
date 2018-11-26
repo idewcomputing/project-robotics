@@ -1,21 +1,19 @@
 # Project Challenge
 
-{% tabs %}
-{% tab title="➤ CHALLENGE" %}
 Each team must design and develop a prototype of a **two-wheeled robot** that demonstrates the completion of useful tasks within a specific context \(such as home, school, business, etc.\).
 
 Your robot demonstration environment will be limited to 6 feet by 6 feet in size. Your team will customize this area to simulate a real-world environment by adding obstacles, objects, etc.
 
 ![](../.gitbook/assets/robot-demo-environment.jpg)
 
-Your team will program a functional prototype of your robot using the provided robotics kit, which has various physical inputs and outputs that can be controlled. Your robot will need to use **at least two physical inputs** \(sensors, button, etc.\) and **at least two physical outputs** \(motors, LED light, etc.\).
+Your team will create a functional prototype of your robot using the provided robotics kit, which has various physical inputs \(sensors, button, etc.\) and physical outputs \(motors, LED light, etc.\) that can be programmed to perform various actions and behaviors.
 
-The provided robotics kit has a limited number of features, so here are some recommendations:
+The provided robotics kit offers only a limited number of features, so here are some recommendations:
 
-* **Creative thinking and innovation will be required** to identify possible ways to use the robot's inputs and outputs, as well as possible ways to sequence robot behaviors to complete different tasks.
-* Your robot prototype might have to be a **smaller-scale model or limited version** of your intended robot design.
-* If necessary, **you can simulate certain parts or actions** as long as the main tasks of your robot can still be demonstrated. For example, For example, your robotics kit does not include an arm that could grip objects - so your team could simulate the robot grabbing or placing an object, as long as the robot could still demonstrate another main task (such as delivering the object to a new location).
-* If necessary, **you can construct parts** \(using cardboard, 3D-printing, etc.\). The constructed parts could provide _functional value_ by helping the robot perform its tasks and/or provide _aesthetic value_ by adding to the robot's appearance for demonstration purposes.
+* **Creative thinking and innovation will be required** to identify possible tasks that could be demonstrated by sequencing different robot actions and behaviors.
+* Your robot prototype and demonstration environment may have to be a **smaller-scale model or limited version** of the real thing. For example, your demo environment will most likely represent a scaled-down, limited model of the real environment in which the robot would function.
+* If necessary, **you can simulate certain parts or actions** as long as the main tasks of your robot can still be demonstrated. For example, the robotics kit does **not** include an arm to grip objects. However, your team could simulate a robotic arm grabbing or placing an object, as long as the robot could still demonstrate another main task \(such as navigating the environment to transport the object to a new location\).
+* If necessary, **you can construct parts** \(using cardboard, 3D-printing, etc.\). The constructed parts could provide _functional value_ by helping the robot perform its tasks and/or _aesthetic value_ by adding to the appearance of the robot \(or environment\) for demonstration purposes.
 
 ## Website, Video, Poster, and Presentation
 
@@ -23,18 +21,13 @@ Each team will create a **product marketing website** for their robot concept. T
 
 At the end of the semester, all teams will demonstrate and explain their robot prototypes at a **public poster presentation**.
 
-{% endtab %}
-
-{% tab title="✓ DELIVERABLES" %}
 Each phase of the project has a set of team deliverables, but they lead to these final deliverables from each team:
 
 * **Robot Prototype and Demo Environment** that demonstrate your robot completing its tasks
 * **Product Website** that explains your robot and includes a robot demo video
 * **Project Poster** that highlights key features of your robot and key steps in creating it
 * **Public Presentation** that demonstrates your robot solution and explains how it was created
-{% endtab %}
 
-{% tab title="★ CRITERIA" %}
 Each team's robot prototype must meet these design criteria:
 
 * **Innovative:** your solution should be unique \(or an improvement over existing solutions\)
@@ -42,9 +35,7 @@ Each team's robot prototype must meet these design criteria:
 * **Useful:** your solution should fulfill a need, solve a problem, or improve an existing situation
 * **Usable:** your solution should be easy to understand and efficient to use
 * **Valuable:** your solution should be desirable and valuable to users/stakeholders
-{% endtab %}
 
-{% tab title="▲ CONSTRAINTS" %}
 Each team's robot prototype and demonstration environment is subject to these constraints:
 
 * Robot prototype must demonstrate tasks that **require wheeled movement**. Otherwise, if the tasks don't require movement, they could be completed by a non-robotic device.
@@ -52,9 +43,7 @@ Each team's robot prototype and demonstration environment is subject to these co
 * Robot prototype and demo environment might be a **smaller-scale model or limited version** of the real thing \(as long as the main tasks of the robot can still be demonstrated\). 
 * Robot prototype may have to **simulate certain parts or actions** \(as long as the main tasks of the robot can still be demonstrated\).
 * Robot prototype and demo environment can include **constructed parts** \(e.g., cardboard, 3D-printed, etc.\) that provide functional value and/or aesthetic value.
-{% endtab %}
 
-{% tab title="◼ TEAM ROLES" %}
 Each team will have 2-4 members that serve in one or more of these roles:
 
 * **Design Lead:**  leads research and evaluation of robot design
@@ -67,6 +56,4 @@ Each team will have 2-4 members that serve in one or more of these roles:
 **Teams of 3** need to designate different people as the Design Lead, the Development Lead, and the Business Lead. One person will also need to serve as the Project Manager.
 
 **Teams of 4** need to designate different people for each role.
-{% endtab %}
-{% endtabs %}
 
