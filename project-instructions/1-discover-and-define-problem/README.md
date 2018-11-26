@@ -1,17 +1,17 @@
 # 1 Discover & Define Problem
 
-Begin to frame the goals of the design by learning about the stakeholders, the available technology, and features of existing robotics designs. Refine the problem definition and potential concepts through team deliberation and stakeholder feedback. Develop a rich description of the technology, stakeholders, process, and goals to include in a concept proposal for approval.
+![](../../.gitbook/assets/phase-1-process.png)
+
+Begin to frame the goals of your design by learning about your users and other stakeholders, the available technology, and the current practices to reach similar goals. Practice using the technology, in order to better understand its possibilities and constraints for design purposes. Consider various problems to solve. Evaluate and refine your ideas for a problem to solve through internal review and stakeholder feedback, in order to select a specific concept to target. Define the specific stakeholders, technology, and goals for a potential solution to your targeted problem.
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
-| [1-1 Form Teams](1-1-form-teams.md) | 1 Hour |  |  |
-| [1-2 Conduct Robot Experiments](1-2-robot-experiments.md) | 6 Hours |  |  |
-| [1-3 Research Robotics Systems](1-3-research-robotics-systems.md) | 2 Hours |  |  |
-| [1-4 Study Robotics Design Patterns](1-4-study-robotics-design-patterns.md) | 1 Hour |  |  |
-| [1-5 Ideate and Define Initial Concepts](1-5-ideate-and-define-initial-concepts.md) | 1 Hour |  |  |
-| [1-6 Sketch Robot Scenarios](1-6-sketch-robot-scenarios.md) | 2 Hours |  |  |
-| [1-7 Evaluate Concepts and Select One](1-7-evaluate-concepts-and-select-one.md) | 2 Hours |  |  |
-| [**1-8 Prepare and Present Team Proposal**](1-8-prepare-and-present-team-proposal.md) | 2 Hours |  | . |
-
-**RUBRICS:** [**PERSONAL CONTRIBUTION**]() **\|** [**TEAM COLLABORATION**]() **\|** [**PROPOSAL**]()
+| 1.1 Robotics Research | 5 Hours |  |  |
+| 1.2 Robotics Code Tutorials | 10 Hours |  |  |
+| 1.3 Project Ideas | 3 Hours |  |  |
+| 1.4 Competitive Analysis | 2 Hours |  |  |
+| 1.5 User Research | 3 Hours |  |  |
+| 1.6 Value Proposition | 1 Hour |  |  |
+| 1.7 Task Scenarios | 2 Hours |  |  |
+| 1.8 Proposal Presentation | 2 Hours |  |  |
 
