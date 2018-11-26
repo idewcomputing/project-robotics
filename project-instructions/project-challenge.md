@@ -2,7 +2,7 @@
 
 Design, program, and test a [two-wheeled robot](https://www.sparkfun.com/products/12649) prototype that demonstrates the completion of  meaningful tasks for people.
 
-Your robot demonstration environment will be limited to 6 feet by 6 feet size. Your team can modify this environment to simulate a real-world environment by adding walls, obstacles, and other objects.
+Your robot demonstration environment will be limited to 6 feet by 6 feet size. Your team will customize this to simulate a real-world environment by adding walls, objects, etc.
 
 ![](../.gitbook/assets/robot-demo-environment.jpg)
 
