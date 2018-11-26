@@ -10,8 +10,6 @@ Your **robot demonstration environment** will be limited to 6 feet by 6 feet in 
 
 Your team will create a functional prototype of your robot using the provided robotics kit, which has various physical inputs \(sensors, etc.\) and physical outputs \(motors, etc.\) that can be programmed to perform various actions and behaviors.
 
-The provided robotics kit has only a limited number of features, so here are some recommendations:
-
 * **Creative thinking and innovation will be required** to identify possible tasks that the robot could demonstrate by sequencing different robot actions and behaviors. Every team will have an identical robotics kit, but each team needs to come up with an innovative concept for a robot that performs useful tasks.
 * Your robot prototype and demonstration environment may have to be a **smaller-scale model or limited version** of the real thing. For example, your demo environment will most likely represent a scaled-down, limited model of the real environment in which the robot would function.
 * If necessary, **you can simulate certain parts or actions** as long as the main tasks of your robot can still be demonstrated. For example, the robotics kit does **not** include an arm to grip objects. However, your team could simulate a robotic arm grabbing or placing an object, as long as the robot could still demonstrate another main task \(such as navigating the environment to transport the object to a new location\).
@@ -19,7 +17,7 @@ The provided robotics kit has only a limited number of features, so here are som
 
 ### Website, Video, Poster, and Presentation
 
-Each team will also create a **product marketing website** for their robot. The website should include a **robot demo video**.
+Each team will also create a **product website** for their robot. The website will include a **robot demo video**.
 
 At the end of the semester, all teams will demonstrate and explain their robot prototypes at a **public poster presentation**.
 {% endtab %}
@@ -28,13 +26,13 @@ At the end of the semester, all teams will demonstrate and explain their robot p
 Each phase of the project has a set of team deliverables, but they lead to these final deliverables from each team:
 
 * **Robot Prototype and Demo Environment** that demonstrate your robot completing its tasks
-* **Product Website** that explains your robot and includes a robot demo video
+* **Product Website and Robot Demo Video** that explain and show your robot solution
 * **Project Poster** that highlights key features of your robot and key steps in creating it
 * **Public Presentation** that demonstrates your robot solution and explains how it was created
 {% endtab %}
 
 {% tab title="★ CRITERIA" %}
-Each team's robot prototype must meet these design criteria:
+Each team's robot prototype solution must meet these design criteria:
 
 * **Innovative:** your solution should be unique \(or an improvement over existing solutions\)
 * **Feasible:** your solution should be possible to prototype with the given materials/resources
@@ -48,8 +46,8 @@ Each team's robot prototype and demonstration environment is subject to these co
 
 * Robot prototype must demonstrate tasks that **require wheeled movement**. Otherwise, if the tasks don't require movement, they could be completed by a non-robotic device.
 * Robot prototype must use at least **two different physical inputs** \(sensors, button, etc.\) and at least **two different physical outputs** \(motors, LED light, etc.\) included in the robotics kit.
-* Robot prototype and demo environment might be a **smaller-scale model or limited version** of the real thing \(as long as the main tasks of the robot can still be demonstrated\). 
-* Robot prototype may have to **simulate certain parts or actions** \(as long as the main tasks of the robot can still be demonstrated\).
+* Robot prototype and demo environment may have to be a **smaller-scale model or limited version** of the real thing \(as long as the main tasks of the robot can still be demonstrated\). 
+* Robot prototype can **simulate certain parts or actions** \(as long as the main tasks of the robot can still be demonstrated\).
 * Robot prototype and demo environment can include **constructed parts** \(e.g., cardboard, 3D-printed, etc.\) that provide functional value and/or aesthetic value.
 {% endtab %}
 
