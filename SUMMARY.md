@@ -16,7 +16,7 @@
   * [1.8 Proposal Presentation](project-instructions/1-discover-and-define-problem/1.8-proposal-presentation.md)
 * [2 Design & Build Solution](project-instructions/2-design-and-build-solution/README.md)
   * [2.1 Project Schedule](project-instructions/2-design-and-build-solution/2.1-project-schedule.md)
-  * [2-1 Define Hardware Specifications](project-instructions/2-design-and-build-solution/2-1-define-hardware-specifications.md)
+  * [2.2 Robot Specifications](project-instructions/2-design-and-build-solution/2.2-robot-specifications.md)
   * [2-2 Generate Pseudocode for Testing Scenarios](project-instructions/2-design-and-build-solution/2-2-generate-pseudocode-for-testing-scenarios.md)
   * [2-3 Create Interactive Paper Prototype](project-instructions/2-design-and-build-solution/2-3-create-interactive-paper-prototype.md)
   * [2-4 Evaluate Prototype and Refine Design](project-instructions/2-design-and-build-solution/2-4-evaluate-prototype-and-refine-design.md)
