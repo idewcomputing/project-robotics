@@ -5,8 +5,8 @@ After confirmation of the solution’s quality, conduct a thorough evaluation. D
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
 | 3.1 Solution Evaluation | 3 hours |  |  |
-| 3.2 Solution Refinements | 3 hours |  |  |
-| 3.3 Project Poster | 3 hours |  |  |
+| 3.2 Solution Refinements | 5 hours |  |  |
+| 3.3 Project Poster | 5 hours |  |  |
 | **3.4 Evaluation Presentation** | 2 hours |  |  |
 
 

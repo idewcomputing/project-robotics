@@ -4,7 +4,9 @@ Prepare material to share the details of the solution, the process used to devel
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
-| 4.1 Public Presentation | 2 hours |  |  |
+| **4.1 Public Presentation** | 3 hours |  |  |
 | 4.2 Project Reflection | 1 hour |  |  |
 | 4.3 Class Celebration | 1 hour |  |  |
+
+
 
