@@ -34,7 +34,9 @@ If a device's actions are being decided and controlled directly by a human, then
 {% tab title="➤ PROCESS" %}
 In this project, students will collaborate in small teams to design, develop, and evaluate their own technology solutions to an authentic challenge. Teams will follow a user-centered design approach which focuses on understanding the goals, needs, expectations, and experiences of the people that will use their technology solution. Evaluation and testing of ideas and prototypes is integrated throughout the design and development process.
 
-This project is designed to be completed throughout a semester-long high school CS course. Here are the estimated times for completing each project phase:
+This project is designed to follow the research-based “Gold Standard” model of Project Based Learning \(PBL\) developed by the [Buck Institute of Education](http://www.bie.org/about/what_pbl).
+
+This project is intended to be completed throughout a semester-long high school CS course. Here are the estimated times for completing each project phase:
 
 | **Project Phase** | **Estimated Time** |
 | :--- | :--- |
@@ -42,8 +44,6 @@ This project is designed to be completed throughout a semester-long high school 
 | 2 Design & Build Solution | 4-6 weeks |
 | 3 Evaluate & Refine Solution | 2 weeks |
 | 4 Share Project with Public | 1 week |
-
-This project is designed to follow the research-based “Gold Standard” model of Project Based Learning \(PBL\) developed by the [Buck Institute of Education](http://www.bie.org/about/what_pbl).
 {% endtab %}
 
 {% tab title="✓ OBJECTIVES" %}
