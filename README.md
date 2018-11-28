@@ -32,7 +32,9 @@ If a device's actions are being decided and controlled directly by a human, then
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
-This project is designed as a semester-long course for high school students. Here are the estimated times for completing each project phase:
+In this project, students will collaborate in small teams to design, develop, and evaluate their own technology solutions to an authentic challenge. Teams will follow a user-centered design approach which focuses on understanding the goals, needs, expectations, and experiences of the people that will use their technology solution. Evaluation and testing of ideas and prototypes is integrated throughout the design and development process.
+
+This Robotics project is designed to be completed during a semester-long high school course. Here are the estimated times for completing each project phase:
 
 | **Project Phase** | **Estimated Time** |
 | :--- | :--- |
@@ -43,11 +45,11 @@ This project is designed as a semester-long course for high school students. Her
 {% endtab %}
 
 {% tab title="✓ OBJECTIVES" %}
-Learning objectives for this project
+This project reflects authentic principles and practices currently used in the technology industry. This project emphasizes design thinking, computational thinking, and 21st century success skills \(such as creative thinking, critical thinking, communication, and collaboration\).
 {% endtab %}
 
 {% tab title="★ GOING FURTHER" %}
-Wrap-around and extension activities for this project
+It is recommended that each student also conduct one or more [research reports](https://docs.idew.org/research-topics-in-computing/) in parallel to this project.
 {% endtab %}
 {% endtabs %}
 
