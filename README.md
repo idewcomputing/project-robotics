@@ -36,7 +36,7 @@ This project is designed as a semester-long course for high school students. Her
 
 | **Project Phase** | **Estimated Time** |
 | :--- | :--- |
-| 1 Discover & Define Problem | 6 weeks |
+| 1 Discover & Define Problem | 6-7 weeks |
 | 2 Design & Build Solution | 4-6 weeks |
 | 3 Evaluate & Refine Solution | 2 weeks |
 | 4 Share Project with Public | 1 week |
