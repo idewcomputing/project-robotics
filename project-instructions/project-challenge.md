@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="➤ CHALLENGE" %}
-Each team must design and develop a prototype of a **two-wheeled robot** that demonstrates the completion of useful tasks within a specific context \(such as home, school, business, etc.\).
+Each team must design and develop a prototype of a **two-wheeled robot** that demonstrates the completion of useful tasks for people within a specific context \(home, school, business, etc.\).
 
 Your **robot demonstration environment** will be limited to 6 feet by 6 feet in size. Your team will customize this area to model a real-world environment by adding obstacles, objects, etc.
 
