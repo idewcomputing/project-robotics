@@ -10,10 +10,11 @@ Create a schedule to design and develop your solution, based on the available ti
 | 2.2 Robot Specifications | 2 hours |  |  |
 | 2.3 Paper Prototype | 2 hours |  |  |
 | 2.4 Paper Prototype Evaluation | 2 hours |  |  |
-| 2.5 Robot and Demo Environment | 10 hours |  |  |
-| 2.6 Product Website | 5 hours |  |  |
-| 2.7 Robot Demo Video | 2 hours |  |  |
-| **2.8 Solution Presentation** | 2 hours |  | . |
+| 2.5 Robot Demo Environment | 5 hours |  |  |
+| 2.6 Robot Prototype | 10 hours |  |  |
+| 2.7 Product Website | 5 hours |  |  |
+| 2.8 Robot Demo Video | 2 hours |  |  |
+| **2.9 Solution Presentation** | 2 hours |  | . |
 
 
 

@@ -6,14 +6,14 @@ Begin to frame the goals of your design by learning about your users and other s
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
-| 1.1 Robotics Research | 5 Hours |  |  |
-| 1.2 Robotics Code Tutorials | 10 Hours |  |  |
-| 1.3 Project Ideas | 3 Hours |  |  |
-| 1.4 Competitive Analysis | 2 Hours |  |  |
-| 1.5 User Research | 3 Hours |  |  |
-| 1.6 Value Proposition | 1 Hour |  |  |
-| 1.7 Task Scenarios | 2 Hours |  |  |
-| **1.8 Proposal Presentation** | 4 Hours |  |  |
+| 1.1 Robotics Research | 5 hours |  |  |
+| 1.2 Robotics Code Tutorials | 10 hours |  |  |
+| 1.3 Project Ideas | 3 hours |  |  |
+| 1.4 Competitive Analysis | 2 hours |  |  |
+| 1.5 User Research | 4 hours |  |  |
+| 1.6 Value Proposition | 1 hour |  |  |
+| 1.7 Robot Task Scenarios | 2 hours |  |  |
+| **1.8 Proposal Presentation** | 3 hours |  |  |
 
 
 
