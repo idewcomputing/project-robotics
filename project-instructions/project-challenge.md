@@ -64,6 +64,8 @@ Each team will have 2-4 members that serve in one or more of these roles:
 **Teams of 3** need to designate different people as the Design Lead, the Development Lead, and the Business Lead. One person will also need to serve as the Project Manager.
 
 **Teams of 4** need to designate different people for each role.
+
+It is highly recommended that each team agree to a set of team rules at the beginning of the project. Here is a possible [project team agreement](https://drive.google.com/open?id=11OySnAbGoev728UWsiaUk818CputNZFJ291MJNwkRwc) that could be used.
 {% endtab %}
 {% endtabs %}
 

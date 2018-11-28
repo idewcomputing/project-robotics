@@ -16,6 +16,8 @@ Robotic devices are becoming increasingly used in a variety of contexts to perfo
 
 Most people picture a human-like robot when they think of a "robot" – however, robotic devices vary widely in their purpose, size, capabilities, etc. Some robots have arms for grabbing or gripping objects. Some robots have wheels or legs for moving on surfaces. Some robots have propellors for moving through the air or water. It can be challenging to define what a robot is.
 
+![](.gitbook/assets/robot-humanoid.jpg)
+
 However, most people that study and create robotic devices generally agree that robots are physical computing devices that follow a "sense-think-act" cycle to autonomously interact with the physical world.
 
 ![](.gitbook/assets/sense-think-act.png)
