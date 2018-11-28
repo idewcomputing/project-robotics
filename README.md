@@ -14,9 +14,9 @@ Robotic devices are becoming increasingly used in a variety of contexts to perfo
 
 ## What is a Robot?
 
-Most people picture a human-like robot when they think of a "robot" – however, robotic devices vary widely in their purpose, size, capabilities, etc.
+Most people picture a human-like robot when they think of a "robot" – however, robotic devices vary widely in their purpose, size, capabilities, etc. Some robots have arms for grabbing. Some robots have wheels or legs for moving on surfaces. Some robots have propellors for moving through the air or water. It can be challenging to define what a robot is.
 
-Most people that design and build robot devices agree that robots are physical computing devices that follow a "sense-think-act" cycle to autonomously interact with the physical world.
+However, most people that study and create robotic devices generally agree that robots are physical computing devices that follow a "sense-think-act" cycle to autonomously interact with the physical world.
 
 ![](.gitbook/assets/sense-think-act.png)
 
@@ -24,9 +24,9 @@ Most people that design and build robot devices agree that robots are physical c
 * **THINK:**  Robotic devices are programmed to analyze data from their inputs to make decisions and respond to certain conditions by acting through their outputs.
 * **ACT:**  Robotic devices typically have one or more **physical outputs** \(such as motors, etc.\) that can perform movements and actions in the physical environment.
 
-The "Think" component requires a robot to be **autonomous** – it is programmed with an "artificial intelligence" to make its own decisions. In some cases, this AI may be a relatively simple algorithm that performs a specific task. In other cases, this AI may be capable of much more complex behaviors.
+The "Think" component requires a robot to be **autonomous** – it is programmed with an "artificial intelligence" to make its own decisions based on data. In some cases, this AI may be a relatively simple algorithm that only performs a specific task. In other cases, this AI may be capable of much more complex and adaptable behaviors.
 
-If a device's actions are being controlled directly by a human, then the device probably wouldn't be considered a robot.  For example, a remote-controlled drone is not a true robot because it is not flying by "thinking" on its own.  However, a self-flying drone would be considered a robot.
+If a device's actions are being decided and controlled directly by a human, then the device probably would **not** be considered a robot.  For example, a remote-controlled drone is not a true robot because it is not flying by "thinking" on its own.  However, a self-flying drone would be considered a robot.
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
