@@ -26,9 +26,9 @@ However, most people that study and create robotic devices generally agree that 
 * **THINK:**  Robotic devices are programmed to analyze data from their inputs to make decisions and respond to certain conditions by acting through their outputs.
 * **ACT:**  Robotic devices typically have one or more **physical outputs** \(such as motors, etc.\) that can perform movements and actions in the physical environment.
 
-The "Think" component requires a robot to be **autonomous** – it is programmed with an "artificial intelligence" to make its own decisions based on data. In some cases, this AI may be a relatively simple algorithm that only performs a specific task. In other cases, this AI may be capable of much more complex and adaptable behaviors.
+The "Think" component requires a robot to be **autonomous** – it is programmed with an "artificial intelligence" to make its own decisions based on data. In some cases, this AI may be a relatively simple algorithm or program that only performs a specific task. In other cases, this AI may be capable of much more complex and adaptable behaviors.
 
-If a device's actions are being decided and controlled directly by a human, then the device probably would **not** be considered a robot.  For example, a remote-controlled drone is not a true robot because it is not flying by "thinking" on its own.  However, a self-flying drone would be considered a robot.
+**NOTE:** If a device's actions are being decided and controlled directly by a human, then the device probably would **not** be considered a robot.  For example, a remote-controlled drone is not a true robot because it is not flying by "thinking" on its own.  However, a self-flying drone would be considered a robot.
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
