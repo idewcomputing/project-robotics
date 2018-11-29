@@ -20,7 +20,7 @@ Your robot prototype will need to demonstrate 3 tasks or behaviors, which could 
 * different tasks or behaviors that the robot would complete
 * variations of a task or behavior which show the robot's **flexibility** \(e.g., ability to respond in different patterns such as traveling to different destinations, etc.\) or **adaptability** \(e.g., ability to respond to changes in the environment such as avoiding obstacles even if their location changes, etc.\).
 
-For example, if your robot concept was a food delivery robot, the prototype should demonstrate 3 tasks or behaviors related to delivering food. One task could to deliver a food order to a specific customer location. A second task could be a variation where the robot delivers another order to a different location. Some behaviors that could be demonstrated might include:  avoiding obstacles, avoiding driving off curbs, etc.
+For example, if your robot concept was a food delivery robot, the prototype should demonstrate 3 tasks or behaviors related to delivering food. One task could to deliver a food order to a specific customer location. A second task could be a variation where the robot delivers another order to a different location. Some additional behaviors that could be demonstrated might include:  avoiding obstacles, avoiding driving off curbs, etc.
 
 ### Website, Video, Poster, and Public Presentation
 
