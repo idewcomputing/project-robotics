@@ -15,6 +15,13 @@ Your team will create a functional prototype of your robot using the provided ro
 * If necessary, **you can simulate certain robot parts or actions** as long as the main tasks of your robot can still be demonstrated. For example, the robotics kit does **not** include an arm to grip objects. However, your team could simulate a robotic arm grabbing or placing an object, as long as the robot could still demonstrate another main task \(such as navigating the environment to transport the object to a new location\).
 * If necessary, **you can construct parts** \(using cardboard, 3D-printing, etc.\). These parts could provide _functional value_ by helping the robot perform its tasks and/or _aesthetic value_ by adding to the appearance of the robot \(or environment\) for demonstration purposes.
 
+Your robot prototype will need to demonstrate 3 tasks or behaviors, which could be:
+
+* different tasks or behaviors that the robot would complete
+* variations of a task or behavior which show the robot's **flexibility** \(e.g., ability to respond in different patterns such as traveling to different destinations, etc.\) or **adaptability** \(e.g., ability to respond to changes in the environment such as avoiding obstacles even if their location changes, etc.\).
+
+For example, if your robot concept was a food delivery robot, the prototype should demonstrate 3 tasks or behaviors related to delivering food. One task could to deliver a food order to a specific customer location. A second task could be a variation where the robot delivers another order to a different location. Some behaviors that could be demonstrated might include:  avoiding obstacles, avoiding driving off curbs, etc.
+
 ### Website, Video, Poster, and Public Presentation
 
 Each team will also create a **product website** to explain and market their robot concept. The website will include a **robot demo video** showing the robot prototype completing its tasks.
