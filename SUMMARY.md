@@ -23,7 +23,7 @@
   * [2.6 Robot Prototype](project-instructions/2-design-and-build-solution/2.6-robot-prototype.md)
   * [2.7 Product Website](project-instructions/2-design-and-build-solution/2.7-product-website.md)
   * [2.8 Robot Demo Video](project-instructions/2-design-and-build-solution/2.8-robot-demo-video.md)
-  * [2.9 Solution Presentation](project-instructions/2-design-and-build-solution/2.8-solution-presentation.md)
+  * [2.9 Solution Presentation](project-instructions/2-design-and-build-solution/2.9-solution-presentation.md)
 * [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution/README.md)
   * [3.1 Solution Evaluation](project-instructions/3-evaluate-and-refine-solution/3.1-solution-evaluation.md)
   * [3.2 Solution Refinements](project-instructions/3-evaluate-and-refine-solution/3.2-solution-refinements.md)
