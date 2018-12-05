@@ -46,6 +46,14 @@ This project is intended to be completed throughout a semester-long high school 
 | 2 Design & Build Solution | 4-6 weeks |
 | 3 Evaluate & Refine Solution | 2 weeks |
 | 4 Share Project with Public | 1 week |
+
+### Assignment Templates
+
+Some of the project assignments include links to Google Drive templates \(document, spreadsheet, slide presentation, drawing, etc.\). All the templates are shared as "**View Only**." Students must create a **copy** of the template in order to modify it.  \(Students should **not** request edit access, as the file is a master template for all students.\)
+
+{% hint style="info" %}
+**MAKE A COPY:**  To use a template, be sure you're logged in to your Google Account. From the **File** menu of the template, select **Make a copy**. Save the copy to your shared team folder in Google Drive. The copied file can now be modified.
+{% endhint %}
 {% endtab %}
 
 {% tab title="✓ OBJECTIVES" %}
