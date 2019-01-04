@@ -1,9 +1,5 @@
 # Project Introduction
 
-{% hint style="danger" %}
-**UPDATE IN PROGRESS:** This project guidebook will be revised during fall 2018 and be ready for use in January 2019. Please check back later.
-{% endhint %}
-
 {% tabs %}
 {% tab title="◼ INTRODUCTION" %}
 ## I, Robot
