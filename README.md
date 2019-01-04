@@ -38,14 +38,14 @@ In this project, students will collaborate in small teams to design, develop, an
 
 This project is designed to follow the research-based “Gold Standard” model of Project Based Learning \(PBL\) developed by the [Buck Institute of Education](http://www.bie.org/about/what_pbl).
 
-This project is intended to be completed throughout a semester-long high school CS course. Here are the estimated times for completing each project phase:
+This project is intended to be completed throughout a semester-long high school CS course. Here are the estimated times required to complete each project phase:
 
 | **Project Phase** | **Estimated Time** |
 | :--- | :--- |
 | 1 Discover & Define Problem | 6-7 weeks |
 | 2 Design & Build Solution | 4-6 weeks |
-| 3 Evaluate & Refine Solution | 2 weeks |
-| 4 Share Project with Public | 1 week |
+| 3 Evaluate & Refine Solution | 2-3 weeks |
+| 4 Share Project with Public | 1-2 weeks |
 
 ### Assignment Templates
 
@@ -67,7 +67,7 @@ It is recommended that each student also complete one or more [research reports]
 
 ## Copyright and License
 
-Copyright © 2017-2018 Jim Lyst and Michael Frontz, Indiana University School of Informatics and Computing at IUPUI
+Copyright © 2017-2019 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
 
 Part of the [Computing by Design](https://cxd.gitbooks.io/the-cxd-framework/content/) high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)
 

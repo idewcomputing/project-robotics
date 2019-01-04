@@ -2,7 +2,9 @@
 
 ![](../../.gitbook/assets/phase-1-process.png)
 
-Begin to frame the goals of your design by learning about your users and other stakeholders, the available technology, and the current practices to reach similar goals. Practice using the technology, in order to better understand its possibilities and constraints for design purposes. Consider various problems to solve. Evaluate and refine your ideas for a problem to solve through internal review and stakeholder feedback, in order to select a specific concept to target. Define the specific stakeholders, technology, and goals for a potential solution to your targeted problem.
+Conduct research to better understand robotics technology and its potential uses. Practice using your team's robotics kit, in order to better understand its possibilities and constraints for design purposes. Generate ideas for possible problems to solve with a robot, and then evaluate and refine the ideas, in order to select a specific concept to target. Research and analyze existing solutions for similar problems, in order to identify opportunities to design an innovative solution. Interview potential users and stakeholders to better understand their needs and expectations for a possible robotics solution. Define the value of your potential solution, and develop task scenarios to illustrate what your robot solution could do. Present your team's robot proposal to the class for constructive critique.
+
+This phase of the project will require about 6-7 weeks to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
