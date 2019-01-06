@@ -39,7 +39,7 @@ This project is intended to be completed throughout a semester-long high school 
 | **Project Phase** | **Estimated Time** |
 | :--- | :--- |
 | 1 Discover & Define Problem | 6-7 weeks |
-| 2 Design & Build Solution | 4-6 weeks |
+| 2 Design & Build Solution | 5-7 weeks |
 | 3 Evaluate & Refine Solution | 2-3 weeks |
 | 4 Share Project with Public | 1-2 weeks |
 
