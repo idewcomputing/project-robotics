@@ -12,7 +12,7 @@ This phase of the project will require about 5-7 weeks to complete. Your teacher
 | [2.2 Robot Specifications](2.2-robot-specifications.md) | 3 hours |  |  |
 | [2.3 Paper Prototype Evaluation](2.3-paper-prototype-evaluation.md) | 3 hours |  |  |
 | [2.4 Robot Demo Environment](2.4-robot-demo-environment.md) | 5 hours |  |  |
-| [2.5 Robot Prototype](2.5-robot-prototype.md) | 10-20 hours |  |  |
+| [2.5 Program Robot Prototype](2.5-program-robot-prototype.md) | 10-20 hours |  |  |
 | [2.6 Product Website](2.6-product-website.md) | 5 hours |  |  |
 | [2.7 Robot Demo Video](2.7-robot-demo-video.md) | 2 hours |  |  |
 | \*\*\*\*[**2.8 Solution Presentation**](2.8-solution-presentation.md)\*\*\*\* | 2 hours |  | . |

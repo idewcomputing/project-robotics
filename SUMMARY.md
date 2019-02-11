@@ -19,7 +19,7 @@
   * [2.2 Robot Specifications](project-instructions/2-design-and-build-solution/2.2-robot-specifications.md)
   * [2.3 Paper Prototype Evaluation](project-instructions/2-design-and-build-solution/2.3-paper-prototype-evaluation.md)
   * [2.4 Robot Demo Environment](project-instructions/2-design-and-build-solution/2.4-robot-demo-environment.md)
-  * [2.5 Robot Prototype](project-instructions/2-design-and-build-solution/2.5-robot-prototype.md)
+  * [2.5 Program Robot Prototype](project-instructions/2-design-and-build-solution/2.5-program-robot-prototype.md)
   * [2.6 Product Website](project-instructions/2-design-and-build-solution/2.6-product-website.md)
   * [2.7 Robot Demo Video](project-instructions/2-design-and-build-solution/2.7-robot-demo-video.md)
   * [2.8 Solution Presentation](project-instructions/2-design-and-build-solution/2.8-solution-presentation.md)
