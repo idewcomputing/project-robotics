@@ -8,6 +8,10 @@ Robotic devices are becoming increasingly used in a variety of contexts to perfo
 
 ![RedBot \(Two-Wheeled Robot\)](.gitbook/assets/redbot.jpg)
 
+This project is tailored for a two-wheeled robotics kit called the [SparkFun Inventor's Kit for RedBot](https://www.sparkfun.com/products/12649). It is highly recommended to add an [ultrasonic sensor](https://docs.idew.org/code-robotics/references/physical-inputs/ultrasonic-sensor) to the RedBot for more design possibilities.
+
+**However, you may use another wheeled robot of your choice for this project**. If the robot is programmed using Arduino, then you might be able to use the existing tutorials and references in the accompanying [Robotics Code Guidebook](https://docs.idew.org/code-robotics/) \(depending on the particular sensors and capabilities of your robot\).  
+
 ## What is a Robot?
 
 Most people picture a human-like robot when they think of a "robot" – however, robotic devices vary widely in their purpose, size, capabilities, etc. Some robots have arms for grabbing or gripping objects. Some robots have wheels or legs for moving on surfaces. Some robots have propellors for moving through the air or water. It can be challenging to define what a robot is.
