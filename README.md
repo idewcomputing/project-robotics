@@ -6,9 +6,11 @@
 
 Robotic devices are becoming increasingly used in a variety of contexts to perform tasks and solve problems. In this project, students will be introduced to physical computing by designing and programming a two-wheeled robot prototype to perform useful tasks for people.
 
-![RedBot \(Two-Wheeled Robot\)](.gitbook/assets/redbot.jpg)
+## Robotics Kit
 
 This project is tailored for a two-wheeled robotics kit called the [SparkFun Inventor's Kit for RedBot](https://www.sparkfun.com/products/12649). It is highly recommended to add an [ultrasonic sensor](https://docs.idew.org/code-robotics/references/physical-inputs/ultrasonic-sensor) to the RedBot for more design possibilities.
+
+![RedBot \(Two-Wheeled Robot\)](.gitbook/assets/redbot.jpg)
 
 **However, you may use another wheeled robot of your choice for this project**. If the robot is programmed using Arduino, you may be able to use \(or modify\) the tutorials and references in the accompanying [Robotics Code Guidebook](https://docs.idew.org/code-robotics/) \(depending on the particular components and capabilities of your robot\).
 
