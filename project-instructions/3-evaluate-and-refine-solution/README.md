@@ -1,4 +1,4 @@
-# 3 Evaluate & Refine Solution
+# 3 EVALUATE & REFINE SOLUTION
 
 Conduct a thorough evaluation of your team's solution with external users and stakeholders. Implement high priority refinements to your solution, while preparing your team's poster for the public presentation event. Present your evaluation findings to the class.
 

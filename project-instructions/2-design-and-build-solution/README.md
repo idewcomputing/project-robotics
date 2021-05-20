@@ -1,4 +1,4 @@
-# 2 Design & Build Solution
+# 2 DESIGN & BUILD SOLUTION
 
 ![](../../.gitbook/assets/phase-2-process.png)
 
